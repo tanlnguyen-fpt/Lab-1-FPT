@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMobileLibrary", "AutoMobileLibrary\AutoMobileLibrary.csproj", "{6AEF086E-B0A2-46B2-9637-EA3D6349F4F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomobileWinApp", "AutomobileWinApp\AutomobileWinApp.csproj", "{DB04DF90-8ABE-427F-8402-A2660370DDA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AEF086E-B0A2-46B2-9637-EA3D6349F4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEF086E-B0A2-46B2-9637-EA3D6349F4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEF086E-B0A2-46B2-9637-EA3D6349F4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEF086E-B0A2-46B2-9637-EA3D6349F4F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB04DF90-8ABE-427F-8402-A2660370DDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB04DF90-8ABE-427F-8402-A2660370DDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB04DF90-8ABE-427F-8402-A2660370DDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB04DF90-8ABE-427F-8402-A2660370DDA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {294BB06D-5C5D-491A-BF6B-84F3420B8661}
+	EndGlobalSection
+EndGlobal
